@@ -1,6 +1,6 @@
 # freeDSPx AES/SPDIF IN
 
-This is a digital input add-on board based on a design found at latent laboratories(http://www.latentlaboratories.com/dsp-01/). It's built around a CS8422 asynchronous sample rate converter, has S/PDIF and AES/EBU input plus two potentiometers, a toggle switch and a LED connected to the ADAU's GPIOs.
+This is a digital input add-on board based on a design found at [latent laboratories](http://www.latentlaboratories.com/dsp-01/). It's built around a CS8422 asynchronous sample rate converter, has S/PDIF and AES/EBU input plus two potentiometers, a toggle switch and a LED connected to the ADAU's GPIOs.
 
 ## Comments
 
