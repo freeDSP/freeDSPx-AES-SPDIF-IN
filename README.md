@@ -4,7 +4,8 @@ This is a digital input add-on board based on a design found at [latent laborato
 
 ## Comments
 
-* The pin distance of the input transformer is a little narrow. However, it fits with a little bending. 
+* The pin distance of the input transformer is a little narrow. However, it fits with a little bending.
+  * fixed in V1.1
 * The design uses the bit clock signal of the serial output as master clock for the ASRC. Therefore, the output needs to be configured in SigmaStudio as ‚Master Mode‘. The BCLK frequency needs to be selected as ‚internal clock/4‘.
 
 ## License
